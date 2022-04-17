@@ -1,6 +1,6 @@
 Hi, I am Artur!
 
-I'm a full-stack developer enthusiast who loves spending my time tinkering in code and learning new things. I'm always up for a challenge, and I love pushing myself to see how far I can go.
+I'm a full-stack developer who loves spending my time tinkering in code and learning new things. I'm always up for a challenge, and I love pushing myself to see how far I can go.
 
 I've been working in the field for about 3 years now, and in that time I've learned a thing or two.
 
@@ -12,7 +12,7 @@ I've been working in the field for about 3 years now, and in that time I've lear
 | -------- | ------------ |
 | HTML     | Advanced     |
 | CSS      | Advanced     |
-| SCSS     | Advanced     |
+| SASS     | Advanced     |
 | JS ES6 + | Intermediate |
 | PHP      | Intermediate |
 | MySql    | Intermediate |
@@ -29,6 +29,7 @@ I've been working in the field for about 3 years now, and in that time I've lear
 | Skill       | Experience   |
 | ----------- | ------------ |
 | WordPress   | Advanced     |
+| - Codex     | Intermediate |
 | WooCoomerce | Intermediate |
 
 ### UX, Accesibility & SEO
