@@ -40,6 +40,11 @@ I've been working in the field for about 3 years now, and in that time I've lear
 - Copywriting
 - Sitemap & Navigation Planning
 
+## Currently Learning
+
+- React JS
+- JS ES6+ Classes
+
 ## Contributions
 
 - None at present
