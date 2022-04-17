@@ -37,7 +37,7 @@ I've been working in the field for about 3 years now, and in that time I've lear
 - Speed optimisation
 - Keyword & Content research
 - Copywriting
-- Sitemap & Navigation Plnning
+- Sitemap & Navigation Planning
 
 ## Contributions
 
