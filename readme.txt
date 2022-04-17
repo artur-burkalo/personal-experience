@@ -8,7 +8,7 @@ I've been working in the field for about 3 years now, and in that time I've lear
 
 ### Programming Experience
 
-| Skill         | Experience |
+| Skill         | Experience    |
 | ------------- | ------------- |
 | HTML          | Advanced      |
 | CSS           | Advanced      |
