@@ -29,7 +29,6 @@ I've been working in the field for about 3 years now, and in that time I've lear
 | Skill       | Experience   |
 | ----------- | ------------ |
 | WordPress   | Advanced     |
-| - Codex     | Intermediate |
 | WooCoomerce | Intermediate |
 
 ### UX, Accesibility & SEO
