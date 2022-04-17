@@ -19,14 +19,14 @@ I've been working in the field for about 3 years now, and in that time I've lear
 
 ### Version Control Experience
 
-| Sill          | Experience |
+| Sill          | Experience    |
 | ------------- | ------------- |
 | GIT           | Advanced      |
 | GitHub        | Intermidiate  |
 
 ### CMS Experience
 
-| Sill          | Experience |
+| Sill          | Experience    |
 | ------------- | ------------- |
 | WordPress     | Advanced      |
 | WooCoomerce   | Intermidiate  |
