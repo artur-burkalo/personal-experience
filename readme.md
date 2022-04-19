@@ -42,7 +42,7 @@ I've been working in the field for about 3 years now, and in that time I've lear
 ## Currently Learning
 
 - React JS
-- JS ES6+ Classes
+- JS ES6+ OOP
 
 ## Contributions
 
