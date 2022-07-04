@@ -14,7 +14,7 @@ I've been working in the field for about 3 years now, and in that time I've lear
 | CSS      | Advanced     |
 | SASS     | Advanced     |
 | JS ES6 + | Intermediate |
-| PHP      | Intermediate |
+| PHP      | Advanced |
 | MySql    | Intermediate |
 
 ### Version Control Experience
